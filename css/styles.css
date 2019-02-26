@@ -1,0 +1,10 @@
+#details {
+  display: none;
+}
+.travels {
+  cursor: pointer;
+  color:#0088cc;
+}
+.travels:hover {
+  text-decoration: underline;
+}
